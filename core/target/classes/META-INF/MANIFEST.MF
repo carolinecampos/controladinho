@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: controladinho-core
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: caroline.silva
+Implementation-Vendor-Id: com.carolcampos.controladinho
+Build-Jdk: 1.8.0_221
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/controladinho-core
+Created-By: Maven Integration for Eclipse
+
